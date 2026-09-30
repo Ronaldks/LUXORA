@@ -242,6 +242,12 @@ A release APK can be generated using:
 
 flutter build apk --release
 
+## APK
+
+Download the Android APK:
+
+[Download LUXORA v1.0.0](https://github.com/Ronaldks/LUXORA/releases/tag/v1.0.0)
+
 Developer
 
 Ronald KS
